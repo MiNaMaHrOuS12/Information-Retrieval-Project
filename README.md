@@ -117,7 +117,7 @@ Displays matching documents and their positional indices for terms.
 4. **List (`list`)**
    - Stores token positions in the positional index.
 
-5. **Tuple
+5. **Tuple**
    - Appends a tuple consisting of (doc_id, position) for each token.
 
 ---
