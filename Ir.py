@@ -61,7 +61,7 @@ def build_positional_index(docs):
 
 
 # Folder path containing multiple files
-folder_path = r'C:\Users\Mina Mahros\Desktop\IR Files'  # Update with your folder path
+folder_path = r'C:\Users\Mina Mahros\Documents\IR Project\IR Files'  # Update with your folder path
 
 # Read files and build document dictionary
 docs = read_files_from_folder(folder_path)
